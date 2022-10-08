@@ -1,4 +1,5 @@
 # button.html
+<!doctype html>
 <style>
   .subscribe-button {
     background-color:rgb(200, 0, 0);
